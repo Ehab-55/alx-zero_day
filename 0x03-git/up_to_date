@@ -1,0 +1,6 @@
+git clone
+git add 
+git push
+git pull
+git checkout
+git branch -b
